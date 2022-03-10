@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @ACppCoder
-- I’m interested in c++
-- I’m currently learning c++
+- 👋 Hi, I’m @ACppCoder. I love cpp and currently im working on it but i can write java, python and c.
